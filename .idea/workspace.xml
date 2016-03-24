@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f9dda4c-7292-402c-b2b6-82cc60cf1129" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../newProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../newProject/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../newProject/src/index.html" afterPath="$PROJECT_DIR$/../newProject/src/index.html" />
     </list>
     <ignored path="untitled.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../newProject/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="149">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -198,7 +197,7 @@
       <workItem from="1458510841009" duration="322000" />
       <workItem from="1458513805681" duration="249000" />
       <workItem from="1458514858043" duration="30000" />
-      <workItem from="1458831375098" duration="2513000" />
+      <workItem from="1458831375098" duration="2532000" />
     </task>
     <task id="LOCAL-00001" summary="new code">
       <created>1458833416827</created>
@@ -214,11 +213,18 @@
       <option name="project" value="LOCAL" />
       <updated>1458833440487</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new branch">
+      <created>1458835459664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458835459664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3114000" />
+    <option name="totallyTimeSpent" value="3133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="800" height="536" extended-state="6" />
@@ -257,7 +263,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new code" />
     <MESSAGE value="new code2" />
-    <option name="LAST_COMMIT_MESSAGE" value="new code2" />
+    <MESSAGE value="new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -282,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../newProject/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="149">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding />
         </state>
       </provider>
